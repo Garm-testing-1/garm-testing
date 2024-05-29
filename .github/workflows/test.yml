@@ -8,7 +8,7 @@ on:
         default: "30"
       runner_label:
         description: "runner label"
-        default: ubuntu
+        default: Linux
 
 jobs:
   dummy:
