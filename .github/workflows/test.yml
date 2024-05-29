@@ -8,7 +8,7 @@ on:
         default: "60"
       runner_label:
         description: "runner label"
-        default: Linux
+        default: x64
 
 jobs:
   dummy:
