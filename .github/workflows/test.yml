@@ -5,7 +5,7 @@ on:
     inputs:
       sleep_time:
         description: "sleep for"
-        default: "30"
+        default: "60"
       runner_label:
         description: "runner label"
         default: Linux
